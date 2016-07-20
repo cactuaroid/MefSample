@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MefSample", "MefSample\MefSample.csproj", "{1F3348FD-FA3F-4935-9C34-2C2CFD323029}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MefSample.Logging", "MefSample.Logging\MefSample.Logging.csproj", "{37791701-8146-465A-A87F-DC00C0FD1512}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F3348FD-FA3F-4935-9C34-2C2CFD323029}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F3348FD-FA3F-4935-9C34-2C2CFD323029}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F3348FD-FA3F-4935-9C34-2C2CFD323029}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F3348FD-FA3F-4935-9C34-2C2CFD323029}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37791701-8146-465A-A87F-DC00C0FD1512}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37791701-8146-465A-A87F-DC00C0FD1512}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37791701-8146-465A-A87F-DC00C0FD1512}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37791701-8146-465A-A87F-DC00C0FD1512}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
