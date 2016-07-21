@@ -1,2 +1,2 @@
 # MefSample
-Simple MEF sample
+Simple MEF sample for DI and plugin
